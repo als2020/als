@@ -2,7 +2,7 @@
 
 This readme describes where you can find my responses to each of the exercises: 
 
-- For the ALS Data Engineer Exercise, you can find my response in a jupyter notebook called, [data_engineer_exercise](../python/data_engineer_exercises.ipynb). The notebook notes that people.csv and acquisitions_facts.csv are saved in the data folder of this repo. The data folder does not include the three files that simulate CRM data due to size. The second part of this exercise can be found here.
+- For the ALS Data Engineer Exercise, you can find my response in a jupyter notebook called, [data_engineer_exercise](../blob/master/python/data_engineer_exercises.ipynb). The notebook notes that people.csv and acquisitions_facts.csv are saved in the data folder of this repo. The data folder does not include the three files that simulate CRM data due to size. The second part of this exercise can be found here.
 - For the analytics exercise, you can find my response here in a pdf document. The document notes that the spreadsheet is saved in the data folder. 
 - For the email segmentation exercise, you can find my response here in a word document. 
 - For the proofing exercise, you can find my response here in a word document which includes track changes.
